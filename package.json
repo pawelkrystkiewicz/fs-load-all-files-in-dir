@@ -1,0 +1,10 @@
+{
+	"name": "fs-load-all-files-in-dir",
+	"version": "0.0.1",
+	"description": "Loading all files from directory",
+	"main": "index.js",
+	"author": "Paweł Krystkiewicz <pawel.krystkiewicz@4ls.pl>",
+	"license": "MIT",
+	"private": false,
+	"scripts": { "start": "node ./index.js" }
+}
